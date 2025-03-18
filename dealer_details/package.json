@@ -16,7 +16,7 @@
     "url": "https://github.com/IBM-Cloud/get-started-node"
   },
   "dependencies": {
-    "body-parser": "^1.17.x",
+    "body-parser": "^1.20.3",
     "cors": "^2.8.5",
     "express": "^4.15.x",
     "nodemon": "^2.0.6"
